@@ -1,0 +1,4 @@
+interface:
+  display_name: "AIGC Originality Revision"
+  short_description: "Revise AI-like writing into authentic, evidence-grounded prose."
+  default_prompt: "Use $aigc-originality-revision to revise this draft so it sounds more author-owned, specific, and transparent."
